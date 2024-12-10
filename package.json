@@ -1,12 +1,13 @@
 {
+  "homepage": "https://jatin-1111.github.io/edusphere-react/",
   "name": "edusphere-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jatin-1111.github.io/edusphere-react/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
