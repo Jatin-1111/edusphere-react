@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
 const Navbar = () => {
   const [menuVisible, setMenuVisible] = useState(false);
