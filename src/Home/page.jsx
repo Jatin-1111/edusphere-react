@@ -1,3 +1,4 @@
+import React from 'react'
 import About from "./About"
 import Carousel from "./Carousel"
 import Navbar from "../components/Navbar"
